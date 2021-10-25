@@ -6,7 +6,7 @@ for (let i = 1; i <= 100; i++) {
     
     
     if (i % 3 ===0){
-        boxes.innerHTML += `<div class="box box-3">${i}</div` 
+        boxes.innerHTML += `<div class="box-3>${i}</div`
     }
 }
 
